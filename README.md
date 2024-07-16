@@ -20,10 +20,10 @@ To explore Python Visualization, download ```Python latest version``` and ```Jup
 Contributions are welcome! If you would like to contribute to this repository, please follow these steps:
 
 ### Fork the repository
-Create a new branch (git checkout -b feature-branch)
-Commit your changes (git commit -m 'Add new feature')
-Push to the branch (git push origin feature-branch)
-Create a Pull Request
+* Create a new branch (git checkout -b feature-branch)
+* Commit your changes (git commit -m 'Add new feature')
+* Push to the branch (git push origin feature-branch)
+* Create a Pull Request
 
 ```Please make sure to follow the code of conduct and adhere to the project's contribution guidelines.```
 
