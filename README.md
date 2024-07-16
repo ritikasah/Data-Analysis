@@ -24,6 +24,8 @@ Create a new branch (git checkout -b feature-branch)
 Commit your changes (git commit -m 'Add new feature')
 Push to the branch (git push origin feature-branch)
 Create a Pull Request
+
 ```Please make sure to follow the code of conduct and adhere to the project's contribution guidelines.```
+
 ## Author 
 By~ Ritika Sah
