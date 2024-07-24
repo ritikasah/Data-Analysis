@@ -57,6 +57,56 @@ For questions or feedback, please contact ~
 at [ritikaasah30@gmail.com].
 
 
+# 2.SN Company Dashboard Power BI Project
+
+## Overview
+The SN Company Dashboard Power BI project provides a sophisticated business intelligence tool designed to deliver insightful analytics and visualizations for SN Company. This repository hosts the .pbix file, which encompasses the entire Power BI report, including data models, visuals, and configurations.
+
+## Prerequisites
+To work with this Power BI project, ensure you have the following:
+* Power BI Desktop: Download and install from Microsoft Power BI.
+* Access to Data Sources: Ensure you have the necessary permissions to access the external data sources used in the report.
+  
+## Getting Started
+Clone the Repository:
+```
+git clone https://github.com/YourUsername/SN-Company-Dashboard.git
+```
+
+## Open the Project:
+* Launch Power BI Desktop.
+* Open the SN Company Dashboard.pbix file.
+  
+## Data Refresh:
+* Go to the Home tab.
+* Click on Refresh to load the latest data from the sources.
+
+## Usage
+* Navigating the Dashboard
+* Report Pages: Use the navigation pane on the left to switch between different pages of the report.
+* Visual Interactions: Click on visual elements to apply filters and drill down into detailed data views.
+* Slicers and Filters: Utilize slicers and filters to customize the data displayed on each page.
+  
+## Customizing the Dashboard
+### Modifying Visuals:
+* Switch to the Report view.
+* Drag and drop fields from the Fields pane to update or create new visuals.
+* Use the Visualizations pane to change the type and properties of visuals.
+### Updating Data Sources:
+* Go to Transform Data > Data Source Settings.
+* Update connection strings or authentication methods as required.
+  
+## Contributing 
+* Create a new branch for your feature or bug fix.
+* Commit your changes.
+* Submit a pull request for review.
+
+## Contact
+For any queries or support, please contact:
+Name: [Ritika Sah]
+Email: [ritikaasah30@gmail.com]
+
+
 
 
 
