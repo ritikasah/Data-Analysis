@@ -89,6 +89,6 @@ The following observations are made from the analysis:
 ## Conclusion
 This analysis provides valuable insights into the sales performance and customer behavior of the business on Amazon. By understanding these trends, the business can make informed decisions to improve sales and customer satisfaction.
 
-Author
+## Author
 This analysis was performed by~
 ### Ritika Sah
