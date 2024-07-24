@@ -51,11 +51,6 @@ Includes information on customer demographics and purchasing behavior.
 * Microsoft Power BI
 * Amazon Sales Report Excel file dataset
   
-## Contact
-For questions or feedback, please contact ~ 
-### Ritika Sah 
-at [ritikaasah30@gmail.com].
-
 
 # 2.SN Company Dashboard Power BI Project
 
