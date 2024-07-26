@@ -3,6 +3,8 @@
 ## Overview
 The Amazon Sales Dashboard is an interactive Power BI report that visualizes sales data from Amazon. It provides insights into sales performance, trends, and other key metrics that help in understanding the business's overall health.
 
+![Screenshot (300)](https://github.com/user-attachments/assets/d6c9469e-2eb1-4c7e-a9b9-7cb67cffa4e9)
+
 ## Features
 ### Sales Overview: 
 Provides a high-level view of total sales, number of orders, and average order value.
@@ -56,6 +58,8 @@ Includes information on customer demographics and purchasing behavior.
 
 ## Overview
 The SN Company Dashboard Power BI project provides a sophisticated business intelligence tool designed to deliver insightful analytics and visualizations for SN Company. This repository hosts the .pbix file, which encompasses the entire Power BI report, including data models, visuals, and configurations.
+
+![Screenshot (298)](https://github.com/user-attachments/assets/6b8c1683-7ef1-49d9-818f-dc3e5d50f995)
 
 ## Prerequisites
 To work with this Power BI project, ensure you have the following:
