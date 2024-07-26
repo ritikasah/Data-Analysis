@@ -57,8 +57,6 @@ Includes information on customer demographics and purchasing behavior.
 ## Overview
 The SN Company Dashboard Power BI project provides a sophisticated business intelligence tool designed to deliver insightful analytics and visualizations for SN Company. This repository hosts the .pbix file, which encompasses the entire Power BI report, including data models, visuals, and configurations.
 
-![Screenshot (299)](https://github.com/user-attachments/assets/08dcef0c-588a-42cd-be9f-e89f8ea42258)
-
 ## Prerequisites
 To work with this Power BI project, ensure you have the following:
 * Power BI Desktop: Download and install from Microsoft Power BI.
